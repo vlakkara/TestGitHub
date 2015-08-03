@@ -1,0 +1,6 @@
+Git is super cool
+
+working on Git
+
+git remote add origin https://github.com/vlakkara/TestGitHub.git
+git remote add origin https://vlakkara:Vissu_79@github.com:vlakkara/TestGitHub.git 
